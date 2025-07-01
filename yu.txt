@@ -1,0 +1,6 @@
+
+🔍 Breakdown of git@github.com:Preethushetty67/myrepo2.git
+Part	Meaning
+git@github.com	This is the SSH username and host – you're connecting to GitHub via SSH.
+:	This separates the SSH connection from the repository path.
+Preethushetty67/myrepo2.git	This is your GitHub username and repository name.

@@ -1,0 +1,10 @@
+💡 Pro Tip:
+If you don’t want to enter username/token every time with HTTPS, either:
+
+Cache credentials using:
+
+bash
+Copy
+Edit
+git config --global credential.helper cache
+Or switch to SSH (if you're comfortable setting it up).
